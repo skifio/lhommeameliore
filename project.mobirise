@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "TPE",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,10 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 25,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/tlchargement-128x128.png",
-    "noImageResize": ""
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -264,11 +261,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-9",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cropped-cropped-cropped-cropped-cropped-cropped-crazy-gain-logo-2000x487.png",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -341,7 +338,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/trans-2000x1000.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -414,7 +411,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/images-15-2000x881.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {

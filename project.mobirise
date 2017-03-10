@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "TPE",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,9 +22,12 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 51,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/tlchargement-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -153,6 +156,11 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "H3": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#57b9ed"
             }
           },
           "_tags": [
@@ -199,7 +207,7 @@
               "size": 250
             }
           },
-          "title": "Transhumanisme",
+          "title": "Transhumanisme : &nbsp;Est-il possible d'améliorer l'Homme ?",
           "text": "Bienvenue sur notre site &nbsp;!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#header3-7\" data-toolbar=\"-mbrBtnMove\">Introduction</a> "
         },
@@ -234,20 +242,25 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><span style=\"font-size: 1.09rem; line-height: 1.5;\">&nbsp;</span>Ils existent dans le monde des produits qui peuvent améliorer l’Homme . Cela a toujours été un but convoité par les scientifiques et demandé par la population.Guérir des maladies , empêcher des drames , améliorer l’efficacité des autorités et sauveteurs, simplement améliorer notre quotidien, augmenter les capacités humaines créer des super-soldats ou allez jusqu’à rendre l’homme immortel . Cela réglerait beaucoup de problèmes quotidien.</blockquote><blockquote>Aujourd’hui l'homme veut améliorer ses capacités physiques notamment à travers la chirurgie esthétique. On peut améliorer nos capacités psychiques par la prise de drogues ou de médicaments dérivés pour accroître la concentration et la capacité de travail chez certains étudiants. Ou tout simplement à travers le dopage chez les sportifs ou la prise de drogues chez les militaires avant de partir au combat. La tentation de « booster ses capacités » existe et a toujours existé. Il faut se faire à l’idée que nous faisons partie d’une société qui envisage de plus en plus le corps humain comme « un outil améliorable ».</blockquote>"
+          "text": "<blockquote><span style=\"font-size: 1.09rem; line-height: 1.5;\">&nbsp;</span>Ils existent dans le monde des produits qui peuvent améliorer l’Homme . Cela a toujours été un but convoité par les scientifiques et demandé par la population.Guérir des maladies , empêcher des drames , améliorer l’efficacité des autorités et sauveteurs, simplement améliorer notre quotidien, augmenter les capacités humaines créer des super-soldats ou allez jusqu’à rendre l’homme immortel . Cela réglerait beaucoup de problèmes .</blockquote><blockquote>Aujourd’hui l'homme veut améliorer ses capacités physiques notamment à travers la chirurgie esthétique. On peut améliorer nos capacités psychiques par la prise de drogues ou de médicaments dérivés pour accroître la concentration et la capacité de travail chez certains étudiants. Ou tout simplement à travers le dopage chez les sportifs ou la prise de drogues chez les militaires avant de partir au combat. La tentation de « booster ses capacités » existe et a toujours existé. Il faut se faire à l’idée que nous faisons partie d’une société qui envisage de plus en plus le corps humain comme « un outil améliorable ».</blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "content1-8",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<div><br></div><h3>La conception d’un surhomme est-elle envisageable de nos jours ?</h3><div><br></div><blockquote><a href=\"index.html#msg-box8-9\">I-Amélioration par les substances</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-Les stéroïdes</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-Les drogues</div><div><br></div><blockquote><a href=\"index.html#msg-box8-e\">II- Utiliser la technologie pour augmenter nos capacités :</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-de perception et de réflexion par des puces ou lentilles</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2- de mouvement par les prothèses</div><div><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></div><blockquote><a href=\"index.html#msg-box8-j\">III-Modification du génotype</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-Naissance in-vitro de surhomme</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-Comparaison de l’ADN avec des individus sur-humains</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3-Lois et éthique</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4-Les réactions nucléaires et les rayonnements gamma&nbsp;</div><div><br></div>"
+          "text": "<div><br></div><h3>La conception d’un surhomme est-elle envisageable de nos jours ?</h3><div><br></div><blockquote><a href=\"index.html#msg-box8-9\">I-Amélioration par les substances</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-Les stéroïdes</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-Les drogues</div><div><br></div><blockquote><a href=\"index.html#msg-box8-e\">II- Utiliser la technologie pour augmenter nos capacités :</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-de perception et de réflexion par des puces ou lentilles</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-de mouvement par les prothèses</div><div><span class=\"Apple-tab-span\" style=\"white-space:pre\">\t</span></div><blockquote><a href=\"index.html#msg-box8-j\">III-Modification du génotype</a></blockquote><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1-Naissance in-vitro de surhomme</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2-Comparaison de l’ADN avec des individus sur-humains</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp;3-Les réactions nucléaires et les rayonnements gamma&nbsp;</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><blockquote><span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"index.html#msg-box8-q\">IV- Et au niveau de l'éthique ?&nbsp;</a></span></blockquote>&nbsp; &nbsp; 1- Le retrait de la faiblesse, un déséquilibre pour l'Homme</div><div>&nbsp; &nbsp; 2- Le transhumanisme : une utopie ou une distopie ?</div><div><br></div><div><br></div><div><br></div><div><br></div>"
         },
         {
           "_styles": {
@@ -261,11 +274,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-9",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cropped-cropped-cropped-cropped-cropped-cropped-crazy-gain-logo-2000x487.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -301,13 +314,735 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H4": {
+              "font-size": "24px"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            "H3": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "content1-c",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h4>&nbsp; &nbsp; &nbsp; 1-Les stéroïdes</h4><p>Ajouter le texte&nbsp;</p>"
+          "text": "<h4>&nbsp; &nbsp; &nbsp; 1-Les stéroïdes &nbsp;&nbsp;</h4><h3><i style=\"color: inherit; line-height: 1.1;\">Qu'est ce que c'est que les stéroïdes ?</i><br></h3><p>&nbsp; &nbsp; &nbsp; &nbsp; Les stéroïdes anabolisants créés en usine, servent à imiter l’action de la testostérone de notre corps. Ils augmentent la croissance des muscles (effet anabolique) et favorisent les caractères sexuels secondaires masculins (effet androgénique).<br></p><p>Ces stéroïdes peuvent être prescrites par un médecin à des patients souffrant d’un manque de testostérone ou d’une maladie comme le cancer ou le SIDA. Quand ils sont utilisés par des athlètes, c’est pour accélérer le développement de leurs muscles.</p><p><br></p><h3>Comment ça fonctionne et à quoi ça sert ?</h3><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"line-height: 1.5;\">Lorsque nous soulevons des poids plus lourds que d’habitude, nous créons une minuscule micro déchirure dans les fibres musculaires. Le processus naturel de réparation du corps répare cette déchirure, puis la compense largement en ajoutant des cellules plus grosses afin de construire une fibre plus forte : c’est ce qu’on appelle l’hypertrophie musculaire.</span></p><p>Avec le temps, ce processus répété de destruction et réparation aura comme résultat l’apparition de muscles plus gros, plus forts et plus résistants.</p><p>&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ce processus est principalement assuré par la testostérone mais les stéroïdes peuvent l’accélérer. Une fois ingéré, le stéroïde androgène-anabolisant voyage par voie sanguine pour atteindre les tissus musculaires. Il est réceptionné par les cellules grâce à leurs récepteurs androgènes. Une fois dans les cellules musculaires, le stéroïde peut interagir avec l’ADN des cellules et stimuler le processus de synthèse des protéines qui favorisent la croissance du muscle. &nbsp;</p><p></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blanc-2000x1324-800x529.png",
+                "image": "@PROJECT_PATH@/assets/images/blanc-2000x1324.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sans-titre-2000x1250-800x500.png",
+                "image": "@PROJECT_PATH@/assets/images/sans-titre-2000x1250.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/processussaa-2000x1324-800x529.png",
+                "image": "@PROJECT_PATH@/assets/images/processussaa-2000x1324.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-14",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4>&nbsp; &nbsp; &nbsp;Voici quelques exemples de personnes ayant utilisés des stéroïdes :</h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20141114-testo-steroides-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20141114-testo-steroides-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/70327010-p1-2000x2564-800x1025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/70327010-p1-2000x2564.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6729863167ab10a6c16d6aeb45a18e00-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6729863167ab10a6c16d6aeb45a18e00-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bodybuilding-2000x2325-800x930.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bodybuilding-2000x2325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/morgan-aste2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/morgan-aste2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/slide10-2000x826-800x330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide10-2000x826.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/veines-muscle-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/veines-muscle-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/560-steroides-naturel-2000x1350-800x540.jpg",
+                "image": "@PROJECT_PATH@/assets/images/560-steroides-naturel-2000x1350.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/anavar-before-and-after-2000x1466-800x586.jpg",
+                "image": "@PROJECT_PATH@/assets/images/anavar-before-and-after-2000x1466.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diferenca-entre-bulking-cutting-2000x1726-800x690.jpg",
+                "image": "@PROJECT_PATH@/assets/images/diferenca-entre-bulking-cutting-2000x1726.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-19",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4>Et au delà de la masse ?</h4><p>&nbsp; &nbsp; &nbsp;Il n’y a pas seulement les coureurs et bodybuilders qui en utilisent , il peut aussi être utile aux footballeurs ou aux athlètes qui font du saut en hauteur par exemple. L’exercice                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       intense produit du cortisol qui est l’agent du stress il peut causer des pertes de tissus musculaires et est à l’origine des courbatures.</p><p>&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">Les stéroïdes androgènes anabolisants peuvent bloquer le cortisol en l’empêchant de se lier aux récepteurs cellulaires des muscles, ce qui diminue le processus de destruction. Moins de \"rupture\" musculaire signifie moins de fatigue musculaire, ce qui permet de récupérer plus rapidement entre deux actions ou rencontre sportive.</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">Les résultats sont beaux et les effets sont à première vu remarquables mais cela à un prix car il y a également de nombreux effets secondaires !&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><h4><span style=\"line-height: 1.5;\">Quels sont les effets secondaires ?</span></h4><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La majorité des auteurs des écrits sur les anabolisants ne sont pas des personnes très informées. Il s’agit soit de fanatiques anti-drogue recyclés qui ne comprennent pas vraiment l’énorme différence qui existe entre les drogues et les stéroïdes anabolisants, soit de personnes qui ont elles-mêmes recours aux stéroïdes.</p><p>Cette dernière catégorie a tendance (naturellement) à sous-estimer les dangers liés à l’utilisation de stéroïdes et à l’abus de ces substances.</p><p>La plupart des recherches sérieuses menées dans le domaine des stéroïdes androgènes anabolisants (SAA), qui sont en fait des dérivés de testostérone, l’ont été dans les années 60 et 70. Depuis, et surtout après 1990 (lorsque les Etats-Unis ont promulgué les lois anti-stéroïdes), on évite ce sujet comme la peste dans la plupart des cercles scientifiques.&nbsp;<span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">Nous ne pouvons donc nous fonder que sur un ensemble d’études scientifiques, d’expériences personnelles émanant de bodybuilders plus âgés et de l’observation de coachs expérimentés.</span></p><p>Divers stéroïdes entraînent des effets indésirables</p><p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Les SAA sont un groupe de substances. Celles-ci n’entraînent pas toutes les mêmes résultats et les mêmes effets indésirables. La liste qui suit détaille certains des stéroïdes les plus répandus ainsi que leurs effets indésirables les plus notoires, ils sont classés ci-après du plus dangereux au plus léger :</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-15",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/oxymetholone-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Oxymetholone, Fluoxymestérone",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Très toxique pour le foie",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nandrolone-decanoate-genesis-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Nandrolone&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Entraîne une forte inhibition de la testostérone et &nbsp;des dégâts au niveau des vaisseaux sanguins</span><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stanozolol-1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Danabol, Stanozolol&nbsp;</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Toxique pour le foie et entraîne une&nbsp;</span><br>inhibition de la testostérone<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/testoxyl-propionate-kalpa-600x478.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Enanthate/propionate de testostérone, trenbolone</span><br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Entraîne une forte&nbsp;<br>inhibition de la testostérone<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/genesis-bolde-250-250mg-1ml-10ml-vial-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Boldénone, méthénolone&nbsp;</span><br>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Entraîne une légère&nbsp;<br>inhibition de la testostérone<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anavar-600x337.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Oxandrolone",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Entraîne une très légère&nbsp;<br>inhibition de la testostérone<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            },
+            "H3": {
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le terme « léger » a ici une valeur très relative de manière génétique : certains stéroïdes comme la boldénone peuvent engendrer des réactions très graves chez certaines personnes. De plus, il est important de savoir que la plupart des stéroïdes peuvent entraîner beaucoup d’autres symptômes, notamment la gynécomastie (apparition de poitrine d’apparence féminine chez les hommes du fait de l’activation directe ou indirecte de récepteurs d’oestrogènes), l’acné, la perte capillaire, les sautes d’humeur et les palpitations.</p><p></p><div><br></div><h3>Désormais examinons chacuns de ces effets secondaires :</h3><p>&nbsp; &nbsp; &nbsp; <b>&nbsp;</b><i><b> Inhibition de la testostérone :</b></i><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;L’inhibition de la testostérone, autrement dit une production diminuée de testostérone, affectera tôt ou tard tout consommateur de stéroïdes mais le corps réagit toujours à un apport de testostérone (ou de ses dérivés) par une diminution de sa production.</p><p>Cela est causé par un mécanisme appelé inhibition par contre-réaction : la production de toute hormone, dont la libération est régulée par l’hypothalamus (et cela inclut la testostérone), est limitée si le corps détecte des niveaux élevés de cette hormone ou de substance similaire dans l’organisme.</p><p>Ainsi, si par exemple vous vous injectez de l’énanthate de testostérone dans le muscle, vous envoyez également l’information à l’hypothalamus selon laquelle il y a trop de testostérone dans votre organisme et que sa production doit être arrêtée. Cependant la contre réaction est parfois plus forte pour certains stéroïdes (comme la nandrolone) que pour d’autres (oxandrolone). Le faible niveau de testostérone entraîne une réduction de la taille des testicules, une perte de libido, des sautes d’humeur et d’autres symptômes. L’inhibition peut être soit réversible, soit irréversible (si le stéroïde est trop puissant et utilisé pendant une période trop longue). Une inhibition irréversible de la testostérone veut dire que le corps ne sera plus jamais capable de produire de la testostérone, du fait d’un abus de SAA.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Il y a deux façons de combattre l’inhibition de la testostérone : prendre les stéroïdes selon des cycles et utiliser un traitement post-cycle.</p><p>Le concept de cycles veut simplement dire que vous arrêtez le traitement après plusieurs semaines et que vous le poursuivez après que la production de testostérone soit revenue à la normale. Généralement, les bodybuildeurs ne sont pas soumis à des tests médicaux et mettent en place un cycle selon leurs observations. Il existe des médicaments à effets hormonaux qui diminuent les hormones oestrogènes (hormones stéroïdes chez les femmes) et aident à augmenter la production de testostérone via une autre forme de contre-réaction. A noter qu’un traitement de ce type constitue une interférence avec le système hormonal et peut donc causer plus de mal que de bien.</p><p><br></p><h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dégâts au niveau du foie</h3><p>&nbsp; &nbsp;Les stéroïdes anabolisants vendus sous forme de comprimés à avaler ont généralement été altérés chimiquement, ce qui fait que leur substance active traverse le foie sans être décomposée ou dégradée. Cette altération chimique est appelée alkylation 17-alpha. Les stéroïdes alkylés 17-alpha sont toujours toxiques pour le foie et cette toxicité dépend de la dose administrée.</p><p>En fait, beaucoup d’autres substances répandues provoquent des dommages au niveau du foie, selon les doses : les antalgiques, les anti-inflammatoires, les pilules contraceptives, et bien d’autres. Le problème avec les SAA est qu’ils sont consommés à des doses beaucoup trop élevées.</p><p>Le signe le plus fréquent de problèmes au foie est une augmentation des enzymes hépatiques. Un niveau élevé d’enzymes est toujours un signe de maladie au niveau de cet organe vital. Une inflammation ou même une nécrose du foie sont à considérer.</p><p><br></p><h3>&nbsp; &nbsp; &nbsp; &nbsp; Gynécomastie<br></h3><p>&nbsp;&nbsp;&nbsp;&nbsp;Dans des circonstances normales, une partie de la testostérone présente dans le corps est toujours convertie en “estradiol”, la principale hormone femelle .Mais la testostérone n’est pas la seule à subir ce processus de conversion en estradiol, c’est le cas de beaucoup de stéroïdes anabolisants. Cela pose un problème aux consommateurs de SAA, car pour être efficace en termes de croissance musculaire, la testostérone, et les autres stéroïdes, doit être prise à des doses très élevées. Ainsi, les bodybuilders ont souvent des niveaux accentués d’estradiol, ce qui entraîne des effets indésirables comme la croissance des seins chez les hommes (Gynécomastie), la rétention d’eau et l’accumulation de graisse, et différents effets psychologiques.</p><p>Certains stéroïdes anabolisants (comme la trenbolone) ne subissent pas cette transformation mais peuvent directement stimuler les récepteurs d’oestrogènes, entraînant ainsi les mêmes effets indésirables que l’estradiol en excès. On pourrait utiliser des substances qui ne sont pas affectées par ce phénomène mais les gains de masses musculaire ne combleront pas les attentes des consommateurs qui préfèrent souvent risquer les effets indésirables des ces stéroïdes qui subissent cette conversion même si le résultat est dû à la rétention d’eau et en partie à l’accumulation de graisse. Ainsi, même si la masse musculaire maigre ne croît pas, l’effet visuel peut être très impressionnant. Les effets indésirables liés aux oestrogènes sont généralement traités à l’aide de médicaments anti-oestrogènes. mais cela constitue une intrusion supplémentaire qui peut entraîner une contre-réaction et donc bien d’autres effets indésirables.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Complications cardiovasculaires</h3><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5;\">Les maladies cardiovasculaires (maladie du cœur et/ou des vaisseaux sanguins) sont souvent dues a un impact négatif que peuvent avoir certains stéroïdes anabolisants sur la lipoprotéine de haute densité (LHD). La LHD est en fait le « bon » cholestérol et il semble que les stéroïdes abaissent les niveaux de cette substance dans l’organisme, affectant ainsi le paysage lipidique global. Nous savons également que la nandrolone, un stéroïde anabolisant très populaire, endommage probablement certaines cellules des vaisseaux sanguins.</span></p><h3>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.07rem; font-weight: 300; line-height: 1.5; color: inherit;\">Les stéroïdes anabolisants peuvent aussi entraîner une pression sanguine élevée, selon les usager. Ceci est très souvent associée aux maladies cardiaques.</span></h3><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Dépendance<br></h3><p>&nbsp;&nbsp;&nbsp;&nbsp;R.I. Wood est l’auteur de plusieurs études scientifiques qui affirment que les dérivés de la testostérone ont des propriétés assimilables à celles des opiacés. Autrement dit, ils provoqueraient la dépendance. C’est en effet une allégation très forte qui contredit ce qu’on sait au sujet de la  testostérone et des hormones associées. Si c’était vrai, cela appuierait les lois qui classent les SAA dans le même groupe de substances que les narcotiques.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;De plus certains des aliments du quotidien les plus banals, contiennent des éléments assimilables aux opiacés. Par exemple, le blé contient des exorphines de gluten. Le lait, quant à lui, contient des peptides de casomorphine. Ces deux substances sont des opioïdes qui suscitent la dépendance. Beaucoup de peptides semblables peuvent être trouvés dans d’autres aliments très répandus. Le café, le thé et le chocolat sont même connus pour provoquer une forte dépendance, probablement bien plus que la testostérone.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">A côté de tous les effets secondaires connus relatifs à l’utilisation des stéroïdes simplement pour des raisons ergogéniques, il y a l’incertitude sur ce que vous prenez réellement. Car dans certains composés vendus sous le manteau en toute illégalité, se cachent parfois des stéroïdes vétérinaires réservés au bétail qui peuvent rapidement être fatals à tout être humain qui les avalerait avec confiance.</span><br></p><p><br></p><p><br></p><p><br></p><p></p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/668051-orig-2000x2946-800x1178.jpg",
+                "image": "@PROJECT_PATH@/assets/images/668051-orig-2000x2946.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blanc-2000x1324-800x529.png",
+                "image": "@PROJECT_PATH@/assets/images/blanc-2000x1324.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5595229-2000x2445-800x978.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5595229-2000x2445.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blanc-2000x1324-800x529.png",
+                "image": "@PROJECT_PATH@/assets/images/blanc-2000x1324.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#ffffff",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-16",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp; &nbsp; Pour conclure les stéroïdes ont a première vu des effets remarquables et nous permettent de développer rapidement notre masse musculaire, ou bien de récupérer plus rapidement entre deux efforts sportifs, mais vu tous les effets négatifs que cela engendre, on ne peut pas parler d'améliorer l'Homme ici. Néamoins les exemples suivant pourrait nous donner une idées de ce à quoi on pourrait s'attendre si on arriver à trouver une super stéroïde ! &nbsp;</p><p><br></p><h4>&nbsp;&nbsp;&nbsp;&nbsp;Etudions le cas du super vilain Bane !</h4>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cbab937667580695efc73ace00c63885-2000x1608-800x643.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cbab937667580695efc73ace00c63885-2000x1608.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-1-2000x944-800x377.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-1-2000x944.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-2-2000x2138-800x855.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-2-2000x2138.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-3-2000x2489-800x995.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-3-2000x2489.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-4-2000x3261-800x1304.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-4-2000x3261.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-5-2000x2851-800x1140.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-5-2000x2851.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-10-2000x1637-800x654.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-10-2000x1637.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-6-2000x1511-800x604.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-6-2000x1511.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-7-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-7-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-8-2000x3071-800x1228.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-8-2000x3071.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-9-2000x2497-800x998.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-9-2000x2497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-11-2000x1601-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-11-2000x1601.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-12-2000x1539-800x615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-12-2000x1539.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-13-2000x3150-800x1260.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-13-2000x3150.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-14-2000x2764-800x1105.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-14-2000x2764.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-15-2000x2598-800x1039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-15-2000x2598.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-2000x1246-800x498.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-2000x1246.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tlchargement-1-2000x1138-800x455.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tlchargement-1-2000x1138.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tlchargement-2-2000x2825-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tlchargement-2-2000x2825.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tlchargement-2000x3005-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tlchargement-2000x3005.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            },
+            "H4": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"color: inherit; font-weight: 600; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-weight: 600; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-weight: 600; line-height: 1.1;\"><br></span></p><p><span style=\"color: inherit; font-weight: 600; line-height: 1.1;\">Introduction :</span><br></p><h4>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-weight: 300; line-height: 1.5;\">Bane est un super méchant qui a été créé pour mettre fin à l’hégémonie de Batman durant les temps difficiles de DC comics . Il faut savoir que pendant cette époque il fallait relancer les scénarios des histoires , ils ont donc créé des méchants pour battre superman par exemple (ou une faiblesse comme la kryptonite). Le personnage a été inspiré du comte de Monte-Cristo et de la culture de luchador mexicain ou lucha libre soit un catcheur mexicain . &nbsp; &nbsp;</span></h4><h4><span style=\"line-height: 1.5;\">Biographie fictive :</span></h4><p>&nbsp;&nbsp;&nbsp;&nbsp;Forcé de purger une peine à perpétuité pour les crimes de son père, Bane est né et a grandi dans la prison souterraine, Peña Duro. Là, il se forge dans le pinacle du potentiel physique et mental tout cela sans voir la lumière du jour. Échappé à Gotham City, Bane s'oppose à Batman et est devenu célèbre comme \"The Man Who Broke the Bat\" soit l’homme qui a battu la chauve-souris.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Bane est un super-méchant de la série Batman. C’est un des seul à avoir battu Batman. Nous allons donc nous intéresser à son “pouvoir”.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Tout d’abord il faut savoir que Bane n’as pas de super pouvoir comme Superman ou Thor. Il bénéficie naturellement d’un physique hors-normes et d’une intelligence exceptionnelle même si cela reste dans le domaine de l’humain. Pour rivaliser avec Batman, il s’injecte des super-steroide directement dans le cortex du cerveau grâce à son masque.</p><p><br></p><h4>Ce produit s'appelle le venom :</h4><p>&nbsp;&nbsp;&nbsp;&nbsp;Il est considéré comme une stéroïde superbe appliquable à l'Homme, ce qui est logique scientifiquement parlant. \"Stéroïdes anabolisants androgènes sont des hormones qui augmentent la masse musculaire globale et ont un effet similaires à la testostérone\". Une fois que le stéroïde est dans le système, il active un récepteur qui existe dans les tissus musculaires. Ce complexe de récepteur activé se déplace ensuite dans le noyau de la cellule et se tourne sur les gènes qui font poussé plus de tissus musculaires. Cela a pour résultat d'augmenter le volume musculaire et sa résistance, ce qui est comparable aux effets de la drogue dans les bandes dessinées.&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">Dans d’autres version de Batman, le venom est amélioré et on l’appelle alors titan.</span></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Il faut savoir que le venom injecté à de nombreuses reprises, a le même effet qu’une drogue comme la cocaïne. Cela entraîne une très grande dépendance et ces stéroïdes ont des effets très néfastes sur le corps.</p><p><br></p><h4>Conclusion :</h4><p>&nbsp; &nbsp; Le cas de Bane est particulièrement intéressant. Il serait donc capable de s’injecter des super stéroïdes comme le venom afin d’améliorer nos capacités. Le venom étant un produit fictif il faut voir si il existe un produits équivalent.&nbsp;</p><p>Certains produits comme : </p><p>-T3 Cytomel Liothyronine Sodium&nbsp;</p><p>-Dianabol Methandienone&nbsp;</p><p>-ClebuterolHCL</p><p>-Androlic</p><p>-Anavar</p><p>-Androlic Oxymetholone</p><p>-Winstrol</p><p>-Halotestin</p><p>-stéroïde oral Androlic</p><p>Pourraient correspondre d'un point de vu structural et au niveau des effets mais on retrouve là encore les effets indésirables et ça n'aurait sûrement pas cet effet la :</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<br></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1c",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=McWlHaBSrDA",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": ""
         },
         {
           "_tags": [
@@ -338,7 +1073,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/trans-2000x1000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -353,7 +1088,7 @@
             "showButton": false
           },
           "title": "II- Utiliser la technologie pour augmenter nos capacités :",
-          "text": "<ul><li><br></li></ul>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -411,7 +1146,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gntique-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -493,6 +1228,66 @@
             "bgColor": "#fff"
           },
           "text": "<h4>&nbsp; &nbsp; &nbsp;4-Les réactions nucléaires et les rayonnements gamma&nbsp;</h4><p>Ajouter texte</p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/debat-marketing-btob-est-different-marketing-btoc-f-2000x949.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "IV- Et l'éthique dans tout ça ?",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Brève intro</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 1- Le retrait de la faiblesse, un déséquilibre pour l'Homme</h4><p>Ajouter le texte</p><p><br></p><p><br></p><h4>&nbsp; &nbsp; &nbsp; &nbsp; 2- Le transhumanisme : une utopie ou une distopie ?</h4><p>Ajouter le texte</p>"
         }
       ]
     }

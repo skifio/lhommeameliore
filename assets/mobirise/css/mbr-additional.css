@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
 
 
 
@@ -476,13 +478,56 @@ h6,
 #msg-box7-1 .lead p {
   color: #fff;
 }
+#msg-box7-1 H3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #57b9ed;
+}
 #header3-7 .mbr-section-title,
 #header3-7 .mbr-section-subtitle {
   text-align: center;
 }
+#content1-8 DIV {
+  text-align: left;
+}
 #msg-box8-9 .mbr-section-title,
 #msg-box8-9 p {
   color: #fff;
+}
+#content1-c H4 {
+  font-size: 24px;
+}
+#content1-c P {
+  font-size: 18px;
+}
+#content1-c H3 {
+  font-size: 18px;
+}
+#content1-1a H4 {
+  font-size: 18px;
+}
+#content1-z H4 {
+  font-size: 18px;
+}
+#content1-z P {
+  font-size: 18px;
+}
+#features1-15 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#content1-12 DIV {
+  font-size: 18px;
+}
+#content1-12 H3 {
+  font-size: 18px;
+}
+#content1-12 P {
+  font-size: 18px;
+}
+#content1-1b P {
+  font-size: 18px;
+}
+#content1-1b H4 {
+  font-size: 18px;
 }
 #msg-box8-e .mbr-section-title,
 #msg-box8-e p {
@@ -490,5 +535,9 @@ h6,
 }
 #msg-box8-j .mbr-section-title,
 #msg-box8-j p {
+  color: #fff;
+}
+#msg-box8-q .mbr-section-title,
+#msg-box8-q p {
   color: #fff;
 }
